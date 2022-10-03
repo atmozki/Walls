@@ -2,7 +2,7 @@
 
 <h1 align='center' >My Wallpaper Collection </h1>
 
-_My wallpaper collection. I dont own any of these wallpapers. All credits go to the respective creators._
+_My wallpaper collection. I don't own any of these wallpapers. All credits go to the respective creators._
 
 ## Installation
 
