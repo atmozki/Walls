@@ -12,7 +12,7 @@ echo " ╚═╝░░░░░╚═╝░░░╚═╝░░░  ░░░
 echo "                                                                      " 
 echo "----------------------------------------------------------------------"
 
-dir="$HOME/Pictures/Walls3/"
+dir="$HOME/Pictures/Walls/"
 current_dir=$(pwd)
 
 echo "Creating directory '$dir' if it doesn't exist"
@@ -48,7 +48,14 @@ if [[ $answer = n ]] ; then
 fi
 
 #Delete the directory after moving the wallpapers to $HOME/Pictures/Walls
-echo "Cleaning up"
-rm -rf "$current_dir/Walls"
+read -p "Do you want to Delete this directory? [y/n] " answer
+if [[ $answer = y ]] ; then
+    echo "Cleaning up"
+    rm -rf "$current_dir/Walls"
+fi
+if [[ $answer = n ]] ; then
+    echo "Exiting"
+    exit 1
+fi
 
 echo "Done!"

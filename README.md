@@ -14,7 +14,7 @@ git clone https://github.com/atmozki/Walls.git
 
 <br>
 
-- **By running the `install.sh` script, it deletes the remaining files after moving `any` of the wallpapers to the Pictures/Walls folder.**
+- **Install by running `install.sh` script. It will move the wallpapers to `Pictures/Walls` and ask for deletion of the cloned repository.**
 
 ```bash
 git clone https://github.com/atmozki/Walls.git
