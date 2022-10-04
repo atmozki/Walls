@@ -6,10 +6,13 @@ _My wallpaper collection. I use [feh](https://feh.finalrewind.org/) to set my wa
 
 ## Installation
 
-Clone the repository to your wallpaper directory.
+Copy the following command and paste it in your terminal to download the wallpapers.
 
 ```bash
 git clone https://github.com/atmozki/Walls.git
+cd Walls
+chmod +x install.sh
+./install.sh
 ```
 
 ## Contributing 👨‍💻
