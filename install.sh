@@ -37,7 +37,7 @@ if [[ $answer = n ]] ; then
     read -p "Which wallpapers to Move 1)Desktop or 2)Smartphone 3) ? [1/2/3]" op
     if [[ $op = 1 ]] ; then
     echo "Moving Desktop Wallpapers"
-    mv "$current_dir/Desktop " $dir
+    mv "$current_dir/Desktop" $dir
     fi
     if [[ $op = 2 ]] ; then
     echo "Moving Smartphone Wallpapers"
