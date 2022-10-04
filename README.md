@@ -14,13 +14,12 @@ git clone https://github.com/atmozki/Walls.git
 
 <br>
 
-- **By running the `install.sh` script, Deletes the `.git` folder and other files after moving `any` of the wallpapers to the Pictures/Walls folder.**
+- **By running the `install.sh` script, it deletes the remaining files after moving `any` of the wallpapers to the Pictures/Walls folder.**
 
 ```bash
 git clone https://github.com/atmozki/Walls.git
-cd Walls
-chmod +x install.sh
-./install.sh
+chmod +x Walls/install.sh
+Walls/./install.sh
 ```
 
 ## Contributing 👨‍💻
