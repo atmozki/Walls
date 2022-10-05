@@ -44,6 +44,4 @@ If you know the source of any of the wallpapers, please let me know so I can giv
 <a><img height='230px' src='Desktop/00160.png'></a>
 <a><img height='230px' src='Desktop/wallhaven-nkyexq.jpg'></a>
 <a><img height='230px' src='Desktop/alena-aenami-eclipse-1k.jpg'></a>
-<a><img height='230px' src='Desktop/00164.png'></a>
-<a><img height='230px' src='Desktop/cherry_wallpaper_desaturated.jpg'></a>
 </p>
