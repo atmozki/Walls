@@ -6,18 +6,17 @@ _My wallpaper collection. I use [feh](https://feh.finalrewind.org/) to set my wa
 
 ## Installation
 
-- Clone the repository and copy/move the wallpapers to `your wallpaper directory`.
+**Steps:**
+
+1. Clone the repository and copy/move the wallpapers to _your wallpaper directory_.
 
 ```bash
 git clone https://github.com/atmozki/Walls.git
 ```
 
-<br>
-
-- **Install by running `install.sh` script. It will move the wallpapers to `Pictures/Walls` and ask for deletion of the cloned repository.**
+2. **Install by running `install.sh` script. It will move the wallpapers to `Pictures/Walls` and ask for deletion of the cloned repository.**
 
 ```bash
-git clone https://github.com/atmozki/Walls.git
 chmod +x Walls/install.sh
 Walls/./install.sh
 ```
