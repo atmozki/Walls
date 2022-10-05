@@ -18,7 +18,7 @@ git clone https://github.com/atmozki/Walls.git
 
 ```bash
 chmod +x Walls/install.sh
-Walls/./install.sh
+./Walls/install.sh
 ```
 
 ## Contributing 👨‍💻
