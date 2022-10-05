@@ -1,4 +1,4 @@
-![masterherd](https://svg-banners.vercel.app/api?type=rainbow&text1=My%20Walls%20🌈&width=900&height=250)
+![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=My%20Walls%20🌈&width=900&height=250)
 
 <h1 align='center' >My Wallpaper Collection </h1>
 
