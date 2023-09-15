@@ -34,6 +34,8 @@ If you know the source of any of the wallpapers, please let me know so I can giv
 - [Love Death Robots](https://www.netflix.com/title/80174608)
 - [Wallhaven](https://wallhaven.cc/)
 - [Batname](https://github.com/shajidhasan/batname)
+- [Deviantart](https://deviantart.com)
+- [Pndora](https://www.deviantart.com/pndora)
 - [r/wallpaper](https://www.reddit.com/r/wallpapers)
 - Others
 
